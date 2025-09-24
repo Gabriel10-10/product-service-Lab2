@@ -3,3 +3,4 @@
 ### Get list of products
 GET http://localhost:3030/products
 Accept: application/json
+
